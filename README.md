@@ -1,5 +1,5 @@
 # fidgetclicker
-This project is a small 6-key fidget clicker made using some extra mechanical keyboard switches. The device will have six mechanical switches mounted in a small 3D-printed case, allowing the user to press and click the keys like a fidget toy.
+This project is a small 6-key fidget clicker made using some extra mechanical keyboard switches. It will have six mechanical switches mounted in a small 3D-printed case, allowing the user to press and click the keys like a fidget toy.
 
 I made this project because I wanted to practice my CAD skills and wanted to have a fidget toy using the spare mechanical switches that I had for my keyboard, which I found very satisfying. 
 
